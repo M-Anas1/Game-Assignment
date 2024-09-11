@@ -1,8 +1,8 @@
 ## Personal Information
 
-- My image
+- My Favourite Image
 
-![My Image](/Pic.jpg)
+![Image](/Pic.jpg)
 
 - My name is **M Anas**.
 - My age is 20 .
