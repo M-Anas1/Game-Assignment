@@ -39,5 +39,5 @@ if check % 2 == 0:
 else:
    print (f"\nDear {user_name} ,the sum of all numbers is {check} that is a not a prime number .")
 
-# last message 
+# last message  
 print ("\n I hope you are enjoy from this .")
