@@ -3,7 +3,7 @@ user_name = input("please input your name : ")
 first_num = int(input("please input a number as first number : "))
 sec_num = int(input("please input a number as second number : "))
 third_num = int(input("please input a number as third number : "))
-print(f"\nAsslam o alaikum {user_name} ,Thanks for entering numbers. ")
+print(f"\nAssalam o alaikum {user_name} ,Thanks for entering numbers. ")
 numbers : list = [first_num , sec_num ,third_num]
 
 # Checking even or Odd
