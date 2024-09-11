@@ -6,7 +6,7 @@
 
 - My name is **M Anas**.
 - My age is 20 .
-- My all information you can get for this [My profile](https://github.com/M-Anas1)
+- My all information you can get from this [My profile](https://github.com/M-Anas1)
 
 ## Experience
 
