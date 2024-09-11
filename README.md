@@ -2,7 +2,7 @@
 
 - My image
 
-![My Image](/Dp.jpe)
+![My Image](/Dp.jpg)
 
 - My name is **M Anas**.
 - My age is 20 .
